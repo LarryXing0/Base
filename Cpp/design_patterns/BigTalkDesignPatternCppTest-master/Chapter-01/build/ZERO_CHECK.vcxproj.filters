@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\build\CMakeFiles\e66f067d8ef0d5345b8fc7c160bda6c2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6A0913ED-2146-3707-B400-BA020599B907}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

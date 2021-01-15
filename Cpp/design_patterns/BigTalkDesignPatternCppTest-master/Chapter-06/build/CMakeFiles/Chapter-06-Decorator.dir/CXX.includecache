@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../internal/ConcreteDecoratorA.h
+string
+-
+Decorator.h
+-
+
+../internal/Decorator.h
+Component.h
+-
+
+../internal/Interface/Component.h
+
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-06/internal/ConcreteDecoratorA.cpp
+ConcreteDecoratorA.h
+-
+iostream
+-
+
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-06/internal/ConcreteDecoratorB.cpp
+ConcreteDecoratorB.h
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-06/internal/ConcreteDecoratorB.h
+iostream
+-
+
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-06/internal/ConcreteDecoratorB.h
+Decorator.h
+-
+

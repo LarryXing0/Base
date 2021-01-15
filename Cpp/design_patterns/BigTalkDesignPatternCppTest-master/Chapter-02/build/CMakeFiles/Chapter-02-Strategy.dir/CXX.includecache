@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/ConcreteStrategyA.h
+Strategy.h
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/Strategy.h
+
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/ConcreteStrategyB.h
+Strategy.h
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/Strategy.h
+
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/ConcreteStrategyC.h
+Strategy.h
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/Strategy.h
+
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/Context.h
+Strategy.h
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/Strategy.h
+
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/Strategy.h
+iostream
+-
+
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/main.cpp
+iostream
+-
+internal/Context.h
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/Context.h
+internal/ConcreteStrategyA.h
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/ConcreteStrategyA.h
+internal/ConcreteStrategyB.h
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/ConcreteStrategyB.h
+internal/ConcreteStrategyC.h
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/internal/ConcreteStrategyC.h
+

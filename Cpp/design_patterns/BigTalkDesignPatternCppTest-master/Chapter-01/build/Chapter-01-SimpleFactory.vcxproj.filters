@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\Operation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\OperationAdd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\OperationSub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\OperationMul.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\OperationDiv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\OperationFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\Operation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\OperationAdd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\OperationSub.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\OperationMul.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\OperationDiv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\internal\OperationFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\ML\设计模式\BigTalkDesignPatternCppTest-master\Chapter-01\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C03FBDC2-F517-33F3-B8A7-11AE457114BE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6A7F6B96-4058-3CDE-88A1-D1BA3B9EEF8A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

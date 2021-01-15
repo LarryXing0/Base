@@ -1,0 +1,3 @@
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/build/CMakeFiles/rebuild_cache.dir
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/build/CMakeFiles/edit_cache.dir
+/home/larryxing/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-02/build/CMakeFiles/Chapter-02-Strategy.dir

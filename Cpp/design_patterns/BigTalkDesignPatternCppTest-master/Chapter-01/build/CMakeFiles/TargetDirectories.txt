@@ -1,0 +1,3 @@
+D:/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-01/build/CMakeFiles/Chapter-01-SimpleFactory.dir
+D:/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-01/build/CMakeFiles/ALL_BUILD.dir
+D:/ML/设计模式/BigTalkDesignPatternCppTest-master/Chapter-01/build/CMakeFiles/ZERO_CHECK.dir
